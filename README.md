@@ -1,2 +1,2 @@
-# pharoah
+# pharoa
 Hotels
